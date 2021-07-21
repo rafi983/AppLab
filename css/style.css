@@ -228,3 +228,24 @@ section {
 .second-card {
   transform: translateY(-0.9rem);
 }
+.testimonial {
+  margin-top: 12rem;
+}
+.ratings i {
+  color: #ffcc00;
+}
+.testimonial__header {
+  color: #242f51;
+  font-weight: 900;
+  font-size: 2.2rem;
+}
+.person__heading {
+  font-size: 1.7rem;
+  font-weight: 900;
+  color: #242f51;
+}
+.person__info h1 {
+  font-size: 1.3rem;
+  font-weight: 900;
+  color: #242f51;
+}
