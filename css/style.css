@@ -253,10 +253,10 @@ section {
   margin-top: 12rem;
 }
 .faq p {
-  margin: 2rem 0 8rem 0;
+  margin: 2rem 0 5rem 0;
 }
 .accordion-item {
-  margin-top: 2rem;
+  margin-top: 0.8rem;
 }
 .accordion-item .accordion-button {
   font-size: 1.4rem;
