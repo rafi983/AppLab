@@ -257,11 +257,11 @@ section {
 }
 .accordion-item {
   margin-top: 2rem;
-  background-color: #f5f7fa;
 }
 .accordion-item .accordion-button {
   font-size: 1.4rem;
   font-weight: 900;
   color: #242f51;
-  padding-bottom: 1.8rem;
+  background-color: #f5f7fa;
+  padding-bottom: 1.4rem;
 }
