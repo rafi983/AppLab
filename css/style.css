@@ -270,3 +270,26 @@ section {
   font-size: 2.8rem;
   margin-bottom: 1.2rem;
 }
+footer {
+  max-height: 500px;
+  background-color: #242f51;
+  padding: 8rem 0;
+}
+.footer__links li a {
+  text-decoration: none;
+  margin-right: 1.5rem;
+  color: #fff;
+}
+footer h1 {
+  color: #fff;
+  font-weight: 800;
+}
+footer h1 span {
+  color: rgb(255, 123, 0);
+}
+footer .icons {
+  color: #fff;
+}
+footer .icons i {
+  margin-right: 1.3rem;
+}
